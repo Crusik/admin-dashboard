@@ -1,3 +1,5 @@
+Something I made while watching a tutorial. For the ReactJS stuff I already pretty much knew how to do most of it. Just needed help with the styling and idea. I will alter this application in the future and might end up using it for a big project with a friend.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
